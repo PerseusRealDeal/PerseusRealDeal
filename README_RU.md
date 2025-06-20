@@ -6,8 +6,9 @@
 
 Я фанат Apple и Swift – это мой выбор. Веду свои iOS/macOS разработки в качестве Инди-разработчика. Люблю `Open Source` проекты - всегда есть что посмотреть, да и себя показать. 
 
-Люблю читать `Джона Р. Р. Толкиена`, а все мои отладочные приложения [iOS](https://github.com/perseusrealdeal/TheOneRing) и [macOS](https://github.com/perseusrealdeal/Arkenstone) в тематике Средиземья.
-Еще одна страть это велопутешествия. У меня красный GT велосипед вот уже как на протяжении более чем 15 лет!
+Люблю читать `Джона Р. Р. Толкина`, а все мои отладочные приложения [iOS](https://github.com/perseusrealdeal/TheOneRing) и [macOS](https://github.com/perseusrealdeal/Arkenstone) в тематике Средиземья.
+
+В физической реальности и зимою и летом я на веле, — та ещё страсть моя! У меня красный GT велосипед вот уже как на протяжении более 15 лет, я самостоятельно подбираю детали и провожу техническое обслуживание велосипеда.
 
 ---
 
@@ -40,12 +41,18 @@
 
 ---
 
-`Понравилось? Что-то приглянулось?` : из России [на чай можно тут](https://spasibomir.ru/pay/18822)
+`Понравилось? Что-то приглянулось?` : [на чай можно тут](https://spasibomir.ru/pay/18822)
 
 > Или через камеру по QR-коду
 
 <a href="https://spasibomir.ru/pay/18822"><img src="https://spasibomir.ru/user/qr-code/19/18822.png?v=4" width="200" style="max-width: 100%;"/></a>
 
+<!--
+
 > И можно кофе)
 
 <a href="https://www.buymeacoffee.com/perseusrealdeal"><img src="https://img.buymeacoffee.com/button-api/?text=Сoffee&emoji=&slug=perseusrealdeal&button_colour=000000&font_colour=ffffff&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+
+-->
+
+Ну и как же без подарков! Вот они [`подарки`](/GIFTS.md), возможно что-нибудь пригодится прямо сейчас.
