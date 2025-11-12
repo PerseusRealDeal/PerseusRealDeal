@@ -39,11 +39,17 @@
 | [`PerseusDarkMode`](https://github.com/perseusrealdeal/PerseusDarkMode)  | Работы с Dark-Light переключениями | macOS 10.13+, iOS 11+, Xcode 14.2+ |
 | [`PerseusGeoKit`](https://github.com/perseusrealdeal/PerseusGeoKit)      | Работы со службами локации         | macOS 10.13+, iOS 11+, Xcode 14.2+ |
 
+### Приложения
+
+| Name                                                               | Purpose                     | Availability              |
+|:-------------------------------------------------------------------|:----------------------------|:--------------------------|
+| [`The Dark Moon`](https://github.com/PerseusRealDeal/TheDarkMoon)  | The Weather-MenuBar-App     | macOS 10.13+, Xcode 14.2+ |
+
 ---
 
-`Понравилось? Что-то приглянулось?` : [на чай можно тут](https://spasibomir.ru/pay/18822)
+# `Мои разработки можно проспонсировать`
 
-> Или через камеру по QR-коду
+`Понравилось? Что-то приглянулось?` : [на чай можно тут](https://spasibomir.ru/pay/18822) или через камеру по QR-коду
 
 <a href="https://spasibomir.ru/pay/18822"><img src="https://spasibomir.ru/user/qr-code/19/18822.png?v=4" width="200" style="max-width: 100%;"/></a>
 
