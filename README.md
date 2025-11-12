@@ -40,11 +40,17 @@ All regular maintenance is carried out by myself.
 | [`PerseusDarkMode`](https://github.com/perseusrealdeal/PerseusDarkMode)  | Switching Dark Mode         | macOS 10.13+, iOS 11+, Xcode 14.2+ |
 | [`PerseusGeoKit`](https://github.com/perseusrealdeal/PerseusGeoKit)      | Accessing Location Services | macOS 10.13+, iOS 11+, Xcode 14.2+ |
 
+### Apps
+
+| Name                                                               | Purpose                     | Availability              |
+|:-------------------------------------------------------------------|:----------------------------|:--------------------------|
+| [`The Dark Moon`](https://github.com/PerseusRealDeal/TheDarkMoon)  | The Weather-MenuBar-App     | macOS 10.13+, Xcode 14.2+ |
+
 ---
 
-`Support/Donates` : [leave a tip here](https://spasibomir.ru/pay/18822)
+# `Support/Donates`
 
-> Or just scan the QR to leave a tip
+[Leave a tip here](https://spasibomir.ru/pay/18822) or just scan the QR to leave a tip
 
 <a href="https://spasibomir.ru/pay/18822"><img src="https://spasibomir.ru/user/qr-code/19/18822.png?v=4" width="200" style="max-width: 100%;"/></a>
 
