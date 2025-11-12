@@ -44,7 +44,7 @@ All regular maintenance is carried out by myself.
 
 | Name                                                               | Purpose                     | Availability              |
 |:-------------------------------------------------------------------|:----------------------------|:--------------------------|
-| [`The Dark Moon`](https://github.com/PerseusRealDeal/TheDarkMoon)  | The Weather-MenuBar-App     | macOS 10.13+, Xcode 14.2+ |
+| [`Snowman`](https://github.com/PerseusRealDeal/TheDarkMoon)  | The Weather-MenuBar-App     | macOS 10.13+, Xcode 14.2+ |
 
 ---
 
